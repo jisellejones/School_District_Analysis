@@ -15,7 +15,7 @@ The purpose of this analysis was to determine the difference in school metrics a
 
 * In the district summary, the average math score decreased by one tenth, from 79.0 to 78.9.
 
-* In the school summary for Thomas High School, the average score for Math showed a minor decrease when scores were removed while the average reading scores showed a minor increase. The passing percentages all showed minor decreases. 
+* In the school summary for Thomas High School, the average score for Math showed a minor decrease when scores were removed while the average reading scores showed a minor increase. The passing percentages all showed minor decreases (table 1).
 
 *Table 1 - Thomas High School Summary with and without 9th Grade Scores*
 
