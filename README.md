@@ -31,7 +31,7 @@ The purpose of this analysis was to determine the difference in school metrics a
 
 *Table 2 - Top 5 Schools*
 
-![top_5_no_9th]()
+![top_5_no_9th](https://github.com/jisellejones/School_District_Analysis/blob/main/Resources/top_5_no_9th.png)
 
 * All Math and Reading averages stayed the same by grade level with the exception of Thomas High School where both the math and reading scores were removed and could not be determined at 9th grade
 
@@ -46,19 +46,19 @@ The purpose of this analysis was to determine the difference in school metrics a
 
 *Table 4 - Spending Summary*
 
-![spending_summary_no_9th]()
+![spending_summary_no_9th](https://github.com/jisellejones/School_District_Analysis/blob/main/Resources/spending_summary_no_9th.png)
 
 * The scores based on school size also remained unaffected (see table 5).
 
 *Table 5 - Score by School Size*
 
-![score_by_size_no_9th]()
+![score_by_size_no_9th](https://github.com/jisellejones/School_District_Analysis/blob/main/Resources/spending_summary_no_9th.png)
 
 * Finally, the scores by school type remiained unaffected (see table 6).
 
 *Table 6 - Score by School Type*
 
-![score_by_type_no_9th]()
+![score_by_type_no_9th](https://github.com/jisellejones/School_District_Analysis/blob/main/Resources/score_by_type_no_9th.png)
 
 
 ## Summary
