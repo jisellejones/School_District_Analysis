@@ -76,7 +76,7 @@ The scores from Thomas High in the upper grades seem to suggest that there was n
 
 Perhaps it is time to rethink our current assessment methods. Could a smaller set of students chosen randomly throughout the district give us the same information about how effective instruction is at a school level and how appropriate curriculum is at a district level? 
 
-Reducing the amount of testing could also allow the district to reallocate funding spent on testing to schools needing greater support. Although, the data suggests that more money spent per student does not correlate with higher performance in math and reading. It may behoove the district to investigate how funding is being allocated in schools that spend fewer dollars per student than those that spend a greater amount of dollars per student. Why is it that more dollars per student does not yield higher math and reading scores? Is this because there are fewer 
+Reducing the amount of testing could also allow the district to reallocate funding spent on testing to schools needing greater support. Although, the data suggests that more money spent per student does not correlate with higher performance in math and reading. It may behoove the district to investigate how funding is being allocated in schools that spend fewer dollars per student than those that spend a greater amount of dollars per student. Why is it that more dollars per student does not yield higher math and reading scores?
 
 ### Limitations
 
