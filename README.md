@@ -3,11 +3,11 @@
 
 ## Overview
 
-The purpose of this analysis is well defined (3 pt).
+The purpose of this analysis was to determine the difference in 
 
 ## Results
 
-* metric 1 - district summary
+* metistrict summary
 
 * metric 2 - school summary
 
