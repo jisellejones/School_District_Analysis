@@ -9,7 +9,7 @@ The purpose of this analysis was to determine the difference in school metrics a
 ## Resources
 
 - Data source: schools_complete.csv & students_complete.csv
-- Software: Python 3.7.6, Jupyter Notebook, 1.58.0
+- Software: Python 3.7.6, Jupyter Notebook, 6.3.0
 
 ## Results
 
