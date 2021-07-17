@@ -67,8 +67,8 @@ The 9th grade students at Thomas High made up a very small percentage of the ove
 
     1. The overall district scores showed a slight but insignificant decrease in average math scores after removing the subset of data from Thomas High (a mere tenth of a point).
     2. The average math score for all students at Thomas High decreased slightly.
-    3.The average reading score for all students at Thomas High increased slightly.
-    4.The percentages of students passing math, reading, and both math and reading slightly decreased, but did not decrease by a significant amount.
+    3. The average reading score for all students at Thomas High increased slightly.
+    4. The percentages of students passing math, reading, and both math and reading slightly decreased, but did not decrease by a significant amount.
     
 Overall, there was not much change in the district analysis. This begs the question, is it really necessary for all students in all grades to be given an assessment each year? Testing takes up significant time from instruction and learning and causes added stress and tension for both teachers and students. 
 
